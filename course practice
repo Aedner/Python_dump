@@ -1,0 +1,6 @@
+numbers = [2, 4, 8, 16, 69, 420, 1000, 69420]
+max = 0
+for n in numbers:
+    if n > max:
+        max = n
+print(max)

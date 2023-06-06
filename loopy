@@ -1,0 +1,13 @@
+while True:
+  marks = input("Besharam tere islamiyat main kitne hain?").lower()
+  if marks == "a*":
+    print("Tobah kar Rashida Aunty kay betay ka A** aya hai. NALAIK!")
+  elif marks == "a":
+    print("ASTAGHFIRULLAH Doob marne Ka maqam hai. Meri Nazaron se door ho jao. Nikama")
+  elif marks == "b":
+    print("Tujhe pata hai ye B kya hota hai??? B is for bakwas jo tu paper main kar kar aya hai. B is for bezati jo tu ne puray khandan ki 7 naslon ki ki hai. B is for besharam jo tu hai");
+  elif marks == "c":
+    print("BESHARAM BEHAYA TUJHE KOI SHARAM NAHI AAYI YE DEKHA KE?? AAJ TU BACHNE WALA NAHI HAI");
+  else:
+    print("GO BACK TO UGANDA WHERE U CAME FROM. MERI NAZAROON SE DOOR HO JAO AHMED");
+  

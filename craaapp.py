@@ -1,0 +1,15 @@
+num=9
+num+=10
+print(num)
+x=69
+x-=420
+print(x)
+b=9
+b*=69
+print(b)
+a=420
+a**=69
+print(a)
+c=69
+c%=420
+print(c)
